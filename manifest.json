@@ -1,0 +1,12 @@
+{
+  "name": "BookWave",
+  "short_name": "BookWave",
+  "description": "Discover & listen to top books",
+  "start_url": "/bookwave/",
+  "display": "standalone",
+  "background_color": "#0A0E27",
+  "theme_color": "#0A0E27",
+  "icons": [
+    { "src": "/bookwave/icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
